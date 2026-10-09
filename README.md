@@ -51,22 +51,6 @@ Pastikan Anda telah memasang **Node.js (versi 18+)** di komputer Anda.
    ```bash
    npm run build
    ```
-
----
-
-## 🔒 Akses Khusus Pemilik (Panel Admin Rahasia)
-
-Tombol dan menu *Panel Admin* secara bawaan **tidak terlihat** oleh pengunjung, klien, maupun HR. 
-
-Untuk membuka panel kelola sertifikat:
-1. **Lewat URL:** Buka halaman dengan menambahkan `?admin=jihan` di ujung alamat URL:
-   ```text
-   http://localhost:5173/?admin=jihan
-   ```
-2. **Lewat Keyboard:** Tekan kombinasi tombol `Ctrl + Shift + A` (atau `Cmd + Shift + A`).
-3. **Lewat HP:** Ketuk simbol monogram `>_` di sebelah nama Jihan Aulia sebanyak 5 kali berturut-turut.
-4. **PIN Bawaan:** Masukkan `jihan2026` untuk memverifikasi akses.
-
 ---
 
 ## 📖 Dokumentasi Lengkap
